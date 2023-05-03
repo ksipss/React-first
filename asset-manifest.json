@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/React-first/static/css/main.d6e93da1.css",
+    "main.js": "/React-first/static/js/main.7489341b.js",
+    "static/media/preloader.gif": "/React-first/static/media/preloader.803f24369a085e35482e.gif",
+    "index.html": "/React-first/index.html",
+    "main.d6e93da1.css.map": "/React-first/static/css/main.d6e93da1.css.map",
+    "main.7489341b.js.map": "/React-first/static/js/main.7489341b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d6e93da1.css",
+    "static/js/main.7489341b.js"
+  ]
+}
